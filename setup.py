@@ -25,7 +25,7 @@ setup(name='climaX',
 #      py_modules=['getClimateData', 'vpd_heatsum', 'queries', 'login'],
 #      scripts=['getClimateData.py', 'climax_batch.py'],
       license='MIT License',
-      install_requires=['mysql-python', 'pyyaml', 'BeautifulSoup4'],
+      install_requires=['mysql-python', 'pyyaml', 'BeautifulSoup4', 'numpy'],
      )
 
 
